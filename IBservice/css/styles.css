@@ -27,6 +27,7 @@ header{
     align-items: center;
 }
 
+
 .container{
     width: 100%;
 }
@@ -52,12 +53,11 @@ header{
 }
 
 .col-1{
-    width: 20px;
+    width: 10%;
 }
 
 .col-2{
     width: 20%;
-    margin:20px
 }
 
 .col-3{
@@ -199,7 +199,6 @@ header{
 
 .txt-color5{
     color:#ffffff;
-    text-align: center;
 }
 
 .img-asocial-pro-max{
@@ -309,4 +308,13 @@ h5{
 
 .text-s{
     font-size: small;
+}
+
+
+
+/****************PIE DE PAGINA****************/
+
+ul li{
+    list-style: none;
+    color: #ffffff;
 }
